@@ -74,8 +74,6 @@ Microsoft SEAL 라이브러리를 활용하여 에너지 사용 데이터를 암
           <img src="FHE/Image/img_3.png" alt="이미지 3" width="30%">
         </div>
       
-    - **옵션 -1**: 프로그램 종료
-
 ---
 
 ## 한계
